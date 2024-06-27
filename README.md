@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @xtalsurfer
+- 👀 I’m interested in machine learning and deep learning
+- 🌱 I’m currently learning machine learning and python
